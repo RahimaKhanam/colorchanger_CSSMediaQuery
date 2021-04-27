@@ -1,4 +1,4 @@
-# colorchanger_CSSMediaQuery
+# colorchanger_CSSMediaQuery <img src="https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg">
 
 **Media queries** are used to modify the site or app depending on a device's general type (such as print vs. screen) or specific characteristics and parameters (such as screen resolution or browser viewport width). They are used to check many things, such as:
 
